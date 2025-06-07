@@ -40,18 +40,11 @@ graph TD
     %% ====== PERFORMANCE BENEFITS ====== %%
     H --> I[💰 Lower CPA]
     H --> J[📈 Higher ROAS]
-    I & J --> K["3–5× better<br>performance"]
+    I & J --> K["🚀 3–5× better<br>performance"]
     
     %% ====== VS BASIC TARGETING ====== %%
-    L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[Higher Cost]
-    F --- |"Enables:<br>• AI similarity matching<br>• Behavioral prediction<br>• Dynamic optimization"| N[Lower Cost]
-
-    %% ====== STYLING ====== %%
-    classDef positive fill:#c8e6c9,stroke:#4caf50,stroke-width:2px;
-    classDef negative fill:#ffcdd2,stroke:#f44336,stroke-width:2px;
-
-    class I,J,K,N positive;
-    class L,M negative;
+    L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[👎 Higher Cost]
+    F --- |"Enables:<br>• AI similarity matching<br>• Behavioral prediction<br>• Dynamic optimization"| N[👍 Lower Cost]
 
 ```
 
