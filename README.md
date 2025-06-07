@@ -45,7 +45,21 @@ graph TD
     L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[Higher Cost]
     F --- |"Enables:<br>• AI similarity matching<br>• Behavioral prediction<br>• Dynamic optimization"| N[Lower Cost]
     
-
+    %% ====== STYLING ====== %%
+    classDef main fill:#e3f2fd,stroke:#2196f3,stroke-width:2px;
+    classDef feat fill:#bbdefb,stroke:#64b5f6,stroke-width:1px;
+    classDef perf fill:#c8e6c9,stroke:#4caf50;
+    classDef comp fill:#fff8e1,stroke:#ffc107;
+    
+    class A,B,C,D,E,F,G main;
+    class B1,C1,F1 feat;
+    class H,I,J,K perf;
+    class L,M,N comp;
+    
+    linkStyle 0,1,2,3,4,5,6 stroke:#1976d2,stroke-width:2px;
+    linkStyle 7,8,9 stroke:#64b5f6,stroke-width:1px,stroke-dasharray:3;
+    linkStyle 10,11,12 stroke:#4caf50;
+    linkStyle 13,14 stroke:#ff9800;
 ```
 
 ---
