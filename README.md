@@ -22,15 +22,29 @@ A specialized Python tool to extract customer email addresses from Fireplace.Lif
 
 ```mermaid
 graph TD
+    %% ====== CORE WORKFLOW ====== %%
     A[📥 Invoice Excel Files] --> B[⚙️ Email Extraction]
     B --> C[🧹 Data Cleansing]
     C --> D[✅ Unique Emails]
     D --> E[📤 CSV Export]
-    E --> F[👥 Facebook Audience]
-    F --> G[🎯 Targeted Campaign]
+    E --> F[👥 Facebook Lookalike]
+    F --> G[🎯 Targeted Ads]
     G --> H[🔥 High-Intent Leads]
+    
+    %% ====== KEY FEATURES ====== %%
+    B -.-> B1["• Scans all subfolders<br>• Reads XLSX/XLS formats<br>• Skips temp files"]
+    C -.-> C1["• Smart email validation<br>• Case normalization<br>• Deduplication"]
+    F -.-> F1["• Meta's AI analyzes 1000+ data points<br>• Finds similar purchase patterns<br>• Cross-platform behavior tracking"]
+    
+    %% ====== PERFORMANCE BENEFITS ====== %%
     H --> I[💰 Lower CPA]
     H --> J[📈 Higher ROAS]
+    I & J --> K["3-5× better<br>performance"]
+    
+    %% ====== VS BASIC TARGETING ====== %%
+    L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[Higher Cost]
+    F --- |"Enables:<br>• AI similarity matching<br>• Behavioral prediction<br>• Dynamic optimization"| N[Lower Cost]
+    
 
 ```
 
