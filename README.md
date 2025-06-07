@@ -5,6 +5,8 @@
 
 A specialized Python tool to extract customer email addresses from Fireplace.Life invoice Excel files. Enables creation of high-quality Lookalike Audiences for Facebook Ads campaigns by leveraging Meta's machine learning to target users similar to existing fireplace customers.
 
+![Facebook Lookalike Audience](Images/Facebook-Lookalike-Audience.gif)
+
 ---
 
 ## Features
