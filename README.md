@@ -9,7 +9,7 @@ A specialized Python tool to extract customer email addresses from Fireplace.Lif
 
 ## Features
 
-- 🔍 Recursive Excel file scanning (`xlsx` and `xls`)
+- 🔍 Recursive Excel file scanning (`.xlsx` and `.xls`)
 - ✉️ Advanced email pattern recognition with validation
 - 🧹 Automatic exclusion of temporary/backup files
 - 📊 Progress tracking with real-time statistics
@@ -40,33 +40,31 @@ graph TD
     %% ====== PERFORMANCE BENEFITS ====== %%
     H --> I[💰 Lower CPA]
     H --> J[📈 Higher ROAS]
-    I & J --> K["🚀 3–5× better<br>performance"]
+    I & J --> K["🚀 3×+ better<br>performance"]
     
     %% ====== VS BASIC TARGETING ====== %%
     L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[👎 Higher Cost]
     F --- |"Enables:<br>• AI similarity matching<br>• Behavioral prediction<br>• Dynamic optimization"| N[👍 Lower Cost]
-
 ```
 
----
 
 ## ⚡ Why Use Email-Based Lookalike Audiences?
 
-| 🧠 **Aspect**            | 😬 **Basic Targeting**           | 🚀 **Email Lookalike**                        |
-|--------------------------|----------------------------------|-----------------------------------------------|
-| 📊 **Data Depth**         | ❌ Surface-level interests        | ✅ 1000+ behavioral data points               |
-| 🎯 **Precision**          | 🪤 Broad demographic groups       | 🎯 Algorithmic similarity matching            |
-| 📉 **Conversion Rate**    | 🔻 1–2% industry average          | 📈 3–5%+ documented results                   |
-| 💸 **Cost per Lead**      | 💰 $15–50 industry average        | 💵 $5–15 documented results                   |
-| 📈 **ROAS Improvement**   | 🟡 Baseline                      | 🟢 2.8× average increase                      |
+| 🧠 **Aspect**             | 😬 **Basic Targeting**             | 🚀 **Email Lookalike**                             |
+|---------------------------|------------------------------------|----------------------------------------------------|
+| 📊 **Data Depth**         | ❌ Surface-level interests          | ✅ 1000+ behavioral data points                    |
+| 🎯 **Precision**          | 🪤 Broad demographic groups         | 🎯 Algorithmic similarity matching                 |
+| 📉 **Conversion Rate**    | 🔻 ~8.8% average                    | 📈 ~18–27% (2–3×+ lift)                            |
+| 💸 **Cost per Lead**      | 💰 ~$18.68 industry average         | 💵 ~$3.75–6.36 with optimized lookalikes           |
+| 📈 **ROAS Improvement**   | 🟡 Baseline                        | 🟢 ~3× average (up to 9.7× in case studies)        |
 
 Email-based lookalike audiences outperform basic targeting because:
 
-🔍 **Meta's AI analyzes 1000+ data points per user** from your customer emails  
-🧠 **Machine learning identifies patterns** in purchase behavior and preferences  
-🎯 **Finds "twin audiences"** with similar characteristics to proven customers  
-📈 **Boosts conversion rates** by 2–3x compared to interest-based targeting  
-💰 **Cuts cost per lead by up to 50%**, according to Meta case studies  
+- 🔍 **Meta's AI analyzes 1000+ data points per user** from your customer emails  
+- 🧠 **Machine learning identifies patterns** in purchase behavior and preferences  
+- 🎯 **Finds "twin audiences"** with similar characteristics to proven customers  
+- 📈 **Boosts conversion rates by 2–3×** compared to interest-based targeting  
+- 💰 **Cuts cost per lead by 50–80%**, based on Meta and AdEspresso benchmarks  
 
 ---
 
@@ -75,5 +73,4 @@ Email-based lookalike audiences outperform basic targeting because:
 - 🔍 **Behavioral Prediction** – Targets users who *act* like your best customers, not just *look* like them  
 - 🛒 **Purchase Intent Focus** – Zeroes in on users showing strong buying signals  
 - 🤖 **Algorithmic Optimization** – Meta's AI continuously refines targeting based on conversions  
-- 🌐 **Cross-Platform Insight** – Leverages the full Meta ecosystem (Instagram, WhatsApp, Facebook, etc.)  
-> ⚠️ Sticking with basic targeting? You might be wasting **half your budget** on the wrong people.
+- 🌐 **Cross-Platform Insight** – Leverages the full Meta ecosystem (Instagram, WhatsApp, Facebook, etc.)
