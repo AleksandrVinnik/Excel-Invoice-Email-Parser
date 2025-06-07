@@ -39,7 +39,7 @@ graph TD
     %% ====== PERFORMANCE BENEFITS ====== %%
     H --> I[💰 Lower CPA]
     H --> J[📈 Higher ROAS]
-    I & J --> K["3-5× better<br>performance"]
+    I & J --> K["3–5× better<br>performance"]
     
     %% ====== VS BASIC TARGETING ====== %%
     L[Basic Targeting] --- |"Limited to:<br>• Location<br>• Demographics<br>• Surface interests"| M[Higher Cost]
@@ -60,6 +60,7 @@ graph TD
     linkStyle 7,8,9 stroke:#64b5f6,stroke-width:1px,stroke-dasharray:3;
     linkStyle 10,11,12 stroke:#4caf50;
     linkStyle 13,14 stroke:#ff9800;
+
 ```
 
 ---
