@@ -17,25 +17,29 @@ A specialized Python tool to extract customer email addresses from Fireplace.Lif
 ## ⚡ Why Use Email-Based Lookalike Audiences?
 
 ```mermaid
-graph TD
-    A[Targeting Options] --> B[Basic Facebook Targeting]
-    A --> C[Email-Based Lookalike Audiences]
+graph TB
+    A[🎯 Targeting Options]
     
-    B --> D[Demographics<br>Age, Gender, Location]
-    B --> E[Interests<br>Home Improvement, Interior Design]
-    B --> F[Behaviors<br>Online Shopping, DIY Projects]
-    B --> G[Limited Accuracy]
-    B --> H[Higher Cost Per Lead]
-    
-    C --> I[Meta's Machine Learning Algorithms]
-    C --> J[1000+ Data Points Per User]
-    C --> K[Purchase Behavior Patterns]
-    C --> L[Similarity Matching]
-    C --> M[Higher Quality Leads]
-    C --> N[Lower Customer Acquisition Cost]
-    
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#6f9,stroke:#333,stroke-width:4px
+    A --> B1[😬 Basic Facebook Targeting]
+    A --> B2[🚀 Email-Based Lookalike Audiences]
+
+    %% Basic Targeting Branch
+    B1 --> C1[👥 Demographics<br>Age, Gender, Location]
+    B1 --> C2[🧠 Interests<br>Home Improvement, DIY, etc.]
+    B1 --> C3[📉 Limited Accuracy]
+    B1 --> C4[💸 Higher Cost Per Lead]
+
+    %% Email Lookalike Branch
+    B2 --> D1[🤖 Meta Machine Learning]
+    B2 --> D2[📊 1000+ Data Points / User]
+    B2 --> D3[🛒 Purchase Pattern Matching]
+    B2 --> D4[🏆 Higher Quality Leads]
+    B2 --> D5[💰 Lower Cost Per Lead]
+
+    %% Styling
+    style B1 fill:#fdd,stroke:#333,stroke-width:2px
+    style B2 fill:#dfd,stroke:#333,stroke-width:2px
+
 ```
 
 Email-based lookalike audiences outperform basic targeting because:
@@ -61,32 +65,19 @@ Email-based lookalike audiences outperform basic targeting because:
 
 ## Use Case
 
-
-
-```markdown
-## 🔄 Value-Driven Workflow
-
 ```mermaid
 graph TD
-    subgraph "Data Preparation"
-        A[📥 Invoice Excel Files] --> B[⚙️ Email Extraction]
-        B --> C[🧹 Data Cleansing]
-        C --> D[✅ Unique Emails]
-    end
-    
-    subgraph "Audience Building"
-        D --> E[📤 CSV Export]
-        E --> F[👥 Facebook Audience]
-    end
-    
-    subgraph "Performance Results"
-        F --> G[🎯 Targeted Campaign]
-        G --> H[🔥 High-Intent Leads]
-        H --> I[💰 Lower CPA]
-        H --> J[📈 Higher ROAS]
-    end
-    
-    style subgraph fill:#f5f5f5,stroke:#bdbdbd,stroke-width:1px,color:#333
+    A[📥 Invoice Excel Files] --> B[⚙️ Email Extraction]
+    B --> C[🧹 Data Cleansing]
+    C --> D[✅ Unique Emails]
+    D --> E[📤 CSV Export]
+    E --> F[👥 Facebook Audience]
+    F --> G[🎯 Targeted Campaign]
+    G --> H[🔥 High-Intent Leads]
+    H --> I[💰 Lower CPA]
+    H --> J[📈 Higher ROAS]
+
+    %% Optional Node Styling (GitHub ignores but kept for reference)
     style A fill:#e3f2fd,stroke:#2196f3
     style B fill:#bbdefb,stroke:#2196f3
     style C fill:#90caf9,stroke:#2196f3
