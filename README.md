@@ -9,8 +9,9 @@
 
 This performance-focused Python tool extracts verified customer emails from sales records and feeds them into Meta’s machine learning engine — helping to reach **millions of high-intent users** who closely mirror best customers.
 
-Perfect for scaling campaigns with **data-backed precision**, not guesswork.
-![Facebook Lookalike Audience](Images/Facebook-Lookalike-Audience.jpeg)
+Perfect for scaling campaigns with **data-backed precision**, not guesswork.  
+
+<img src="Images/Facebook-Lookalike-Audience.jpeg" alt="Facebook Lookalike Audience" style="width:100%; display:block; margin:0; padding:0;" />
 
 🚀 **Up to 3× higher ROAS**  
 🎯 **2–3× more conversions**  
@@ -50,7 +51,7 @@ Meta then uses this data to find statistically similar users across its platform
 **The result?**  
 Broader reach with pinpoint precision, higher conversion rates, and lower customer acquisition costs — ideal for scaling ad campaigns with AI assistance, not guesswork.
 
-![How It Works](Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg)
+<img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
 
 ---
 
@@ -61,7 +62,7 @@ Facebook allows advertisers to select the **size of their Lookalike Audience**, 
 - **1% Lookalike** includes users who are **most similar** to the source audience.  
 - **10% Lookalike** offers **broader reach**, but with **lower similarity**.
 
-![Audience Size Selection](Images/audience%20size%20-%20percent%20of%20population,%20based%20on%20how%20closely%20they%20match%20your%20source.png)
+<img src="Images/audience%20size%20-%20percent%20of%20population,%20based%20on%20how%20closely%20they%20match%20your%20source.png" alt="Audience Size Selection" style="width:100%; display:block; margin:0; padding:0;" />
 
 ---
 
@@ -77,7 +78,7 @@ This spectrum reflects a tradeoff:
 - **1% = High precision** (best for ROI and laser-focused targeting)  
 - **10% = Broad exposure** (best for scaling reach quickly)
 
-![Similarity Spectrum](Images/The-Ultimate-Guide-to-Facebook-Lookalike-Audiences-04.png)
+<img src="Images/The-Ultimate-Guide-to-Facebook-Lookalike-Audiences-04.png" alt="Similarity Spectrum" style="width:100%; display:block; margin:0; padding:0;" />
 
 ---
 
