@@ -20,6 +20,12 @@ A specialized Python tool to extract customer email addresses from Fireplace.Lif
 
 ---
 
+## How It Works
+
+![How It Works](Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg)
+![Audience Size](Images/audience%20size%20-%20percent%20of%20population%2C%20based%20on%20how%20closely%20they%20match%20your%20source.png)
+![Similarity](Images/The-Ultimate-Guide-to-Facebook-Lookalike-Audiences-04.png)
+
 ## Use Case
 
 ```mermaid
