@@ -36,20 +36,24 @@ Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — fr
 
 ## 🔍 How It Works
 
-Transform raw invoice data into a high-performing Facebook Lookalike Audience — powered by Python and Meta AI.
+Turn raw invoice data into precision-targeted Facebook Lookalike Audience — powered by Python and Meta AI.
 
 ---
 
 ### 🧾 From Invoices to Audience Targeting
 
-The process begins by extracting verified customer email addresses from invoice records using a Python-based tool. These emails represent a **source audience** — a high-intent group of real customers who have already completed a purchase.
+The process begins with a **Python-based tool** that extracts verified email addresses from invoice records — not just leads or subscribers, but **actual customers with confirmed purchases**. This creates a **source audience** of high-intent users.
 
-Once uploaded to Facebook, **Meta’s machine learning algorithms** analyze over 1,000 behavioral and demographic data points per user.  
+These emails are uploaded to **Meta’s Ads Manager**, where the magic begins. Behind the scenes, **Meta’s AI engine** analyzes over **1,000 behavioral and demographic signals per user**, such as:
 
-Meta then uses this data to find statistically similar users across its platforms, creating what’s called a **Lookalike Audience** — a powerful targeting segment that mirrors the most valuable customers not by interests or job titles, but by deep behavioral signals.
+- 🛒 Purchase activity and patterns  
+- 📱 App usage and browsing behavior  
+- 🤳 Social media engagement across Facebook, Instagram, WhatsApp  
+- 🧠 Content interaction and conversion likelihood  
 
-**The result?**  
-Broader reach with pinpoint precision, higher conversion rates, and lower customer acquisition costs — ideal for scaling ad campaigns with AI assistance, not guesswork.
+With this data, Meta identifies users who **act like your top customers**, not just those who resemble them on the surface. It builds a **Lookalike Audience** — a powerful group of statistically similar individuals, optimized for high conversion and low acquisition cost.
+
+This pipeline ensures your ads are shown to the people **most likely to convert**, based on real behavioral signals — not vanity metrics.
 
 <img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
 
