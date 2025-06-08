@@ -1,16 +1,23 @@
-# Fireplace.Life Email Extractor
+# 🔥 Fireplace.Life Email Extractor → Facebook Lookalike Generator
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A performance-focused Python tool that transforms raw invoice data into high-converting Facebook Lookalike Audiences.  
-By extracting verified customer emails from Fireplace.Life sales records, it feeds Meta’s machine learning models — unlocking the ability to find **millions of new users** who closely mirror your best customers.
 
-✅ **Up to 3× better ROAS**  
-✅ **2–3× higher conversion rates**  
-✅ **50–80% lower cost per lead**
+**Turn raw invoices into AI-powered audiences that convert.**  
 
-Built on Meta’s AI-driven matching system, which analyzes **1,000+ behavioral signals** (like purchase patterns, device usage, and content engagement) to detect high-intent prospects.  
+
+This performance-focused Python tool extracts verified customer emails from Fireplace.Life sales records and feeds them into Meta’s machine learning engine — helping you reach **millions of high-intent users** who closely mirror your best customers.
+
+> “Lookalike Audiences built from customer emails deliver **2–3× better conversion rates** at **50–80% lower cost** than interest-based targeting.”  
+
+🚀 **Up to 3× higher ROAS**  
+🎯 **2–3× more conversions**  
+💸 **50–80% lower cost per lead**
+
+⚙️ **Why it works:**  
+Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — from purchase patterns to cross-platform engagement — to match your source customers with *lookalike prospects* across Facebook, Instagram, and beyond.
+ 
 Perfect for scaling campaigns with **data-backed precision**, not guesswork.
 
 ![Facebook Lookalike Audience](Images/Facebook-Lookalike-Audience.gif)
