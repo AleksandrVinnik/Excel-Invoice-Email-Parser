@@ -9,6 +9,9 @@
 
 This performance-focused Python tool extracts verified customer emails from sales records and feeds them into Meta’s machine learning engine — helping to reach **millions of high-intent users** who closely mirror best customers.
 
+Perfect for scaling campaigns with **data-backed precision**, not guesswork.
+![Facebook Lookalike Audience](Images/Facebook-Lookalike-Audience.gif)
+
 🚀 **Up to 3× higher ROAS**  
 🎯 **2–3× more conversions**  
 💸 **50–80% lower cost per lead**
@@ -17,10 +20,6 @@ This performance-focused Python tool extracts verified customer emails from sale
 ⚙️ **Why it works:**  
 Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — from purchase patterns to cross-platform engagement — to match your source customers with *lookalike prospects* across Facebook, Instagram, and beyond.
  
-Perfect for scaling campaigns with **data-backed precision**, not guesswork.
-
-![Facebook Lookalike Audience](Images/Facebook-Lookalike-Audience.gif)
-
 ---
 
 ## Features
