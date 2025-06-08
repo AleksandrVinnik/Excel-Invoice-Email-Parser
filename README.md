@@ -67,8 +67,8 @@ graph TD
     %% ====== CORE WORKFLOW ====== %%
     A[📥 Invoice Excel Files] --> B[⚙️ Email Extraction]
     B --> C[🧹 Data Cleansing]
-    C --> D[✅ Unique Emails]
-    D --> E[📤 CSV Export]
+    C --> D[📋 Unique Emails]
+    D --> E[💾 CSV Export]
     E --> F[👥 Facebook Lookalike]
     F --> G[🎯 Targeted Ads]
     G --> H[🔥 High-Intent Leads]
