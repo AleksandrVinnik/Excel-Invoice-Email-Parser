@@ -7,7 +7,7 @@
 **Turn raw invoices into AI-powered audiences that convert.**  
 
 
-This performance-focused Python tool extracts verified customer emails from Fireplace.Life sales records and feeds them into Meta’s machine learning engine — helping you reach **millions of high-intent users** who closely mirror your best customers.
+This performance-focused Python tool extracts verified customer emails from sales records and feeds them into Meta’s machine learning engine — helping to reach **millions of high-intent users** who closely mirror best customers.
 
 > “Lookalike Audiences built from customer emails deliver **2–3× better conversion rates** at **50–80% lower cost** than interest-based targeting.”  
 
