@@ -22,9 +22,29 @@ A specialized Python tool to extract customer email addresses from Fireplace.Lif
 
 ## How It Works
 
+### 1. Source Customer Data → Facebook Lookalike
+
+Our tool begins by extracting **unique customer emails from invoice records** using Python. These emails form your **source audience** — a list of your existing customers. Facebook then uses this source to **find new users who closely resemble your current customers**, creating a **Lookalike Audience**.
+
 <img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
-<img src="Images/audience%20size%20-%20percent%20of%20population,%20based%20on%20how%20closely%20they%20match%20your%20source.png" alt="Audience Size" style="width:100%; display:block; margin:0; padding:0;" />
-<img src="Images/The-Ultimate-Guide-to-Facebook-Lookalike-Audiences-04.png" alt="Similarity" style="width:100%; display:block; margin:0; padding:0;" />
+
+### 2. Audience Size Selection in Facebook
+
+Facebook allows you to select the **size of your Lookalike Audience** — ranging from **1% to 10%** of the population in your selected country.  
+- **1%** includes users **most similar** to your source.
+- **10%** includes a **broader audience** but with less similarity.
+
+<img src="Images/audience%20size%20-%20percent%20of%20population,%20based%20on%20how%20closely%20they%20match%20your%20source.png" alt="Audience Size Selection" style="width:100%; display:block; margin:0; padding:0;" />
+
+### 3. Similarity Spectrum: 1% vs. 10%
+
+This visual shows how the **similarity** of Lookalike Audiences changes depending on the selected percentage:
+- **1% Lookalike** = highest similarity to your source customers  
+- **10% Lookalike** = wider reach, but lower similarity
+
+<img src="Images/The-Ultimate-Guide-to-Facebook-Lookalike-Audiences-04.png" alt="Similarity Spectrum" style="width:100%; display:block; margin:0; padding:0;" />
+
+---
 
 ## Use Case
 
