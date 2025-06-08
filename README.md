@@ -36,8 +36,9 @@ Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — fr
 
 ## 🔍 How It Works
 
-Turn raw invoice data into precision-targeted Facebook Lookalike Audience — powered by Python and Meta AI.
+Turn raw invoice data into precision-targeted Facebook Lookalike Audience — powered by Python and Meta AI.  
 
+<img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
 ---
 
 ### 🧾 From Invoices to Audience Targeting
@@ -54,8 +55,6 @@ These emails are uploaded to **Meta’s Ads Manager**, where the magic begins. B
 With this data, Meta identifies users who **act like your top customers**, not just those who resemble them on the surface. It builds a **Lookalike Audience** — a powerful group of statistically similar individuals, optimized for high conversion and low acquisition cost.
 
 This pipeline ensures your ads are shown to the people **most likely to convert**, based on real behavioral signals — not vanity metrics.
-
-<img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
 
 ---
 
