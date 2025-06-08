@@ -39,6 +39,7 @@ Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — fr
 Turn raw invoice data into precision-targeted Facebook Lookalike Audience — powered by Python and Meta AI.  
 
 <img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
+
 ---
 
 ### 🧾 From Invoices to Audience Targeting
