@@ -37,7 +37,11 @@ Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — fr
 
 ### 1. Source Customer Data → Facebook Lookalike
 
-Our tool begins by extracting **unique customer emails from invoice records** using Python. These emails form your **source audience** — a list of your existing customers. Facebook then uses this source to **find new users who closely resemble your current customers**, creating a **Lookalike Audience**.
+Our tool begins by extracting unique, verified customer emails from Fireplace.Life invoice records using Python. These emails form your source audience — a high-intent list of real customers who have already made a purchase.  
+
+Once uploaded to Facebook, Meta’s machine learning algorithms take over. Facebook analyzes over 1,000 behavioral and demographic data points per user — including purchase activity, browsing habits, app usage, and engagement history — to identify users with similar patterns.  
+
+This process generates a Lookalike Audience: a highly targeted segment of people who closely resemble your best customers in behavior, not just interests or demographics. The result is broader reach with pinpoint precision, higher conversion rates, and lower acquisition costs — perfect for scaling campaigns with AI-driven targeting.  
 
 <img src="Images/Facebook%20Lookalike%20Audience%20-%20HERE'S%20HOW%20IT%20WORKS.jpg" alt="How It Works" style="width:100%; display:block; margin:0; padding:0;" />
 
