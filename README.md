@@ -96,7 +96,7 @@ graph TD
 | 📊 **Data Depth**         | ❌ Surface-level interests          | ✅ 1,000+ behavioral data points               |
 | 🎯 **Precision**          | 🪤 Broad demographic groups         | 🎯 Algorithmic similarity matching             |
 | 📉 **Conversion Rate**    | 🔻 ~9.2%                           | 📈 ~18–27% (2–3× lift; up to 32×)               |
-| 💸 **Cost per Lead**      | 💰 $15-22                          | 💵 $3.75–6.36 (AdEspresso)                      |
+| 💵 **Cost per Lead**      | 💰 $15-22                          | 💸 $3.75–6.36 (AdEspresso)                      |
 | 📈 **ROAS**               | 🟡 Baseline                        | 🟢 ~3× lift; up to ~9.7×                        |
 
 *Sources: AdEspresso, Meta Business, HubSpot*
