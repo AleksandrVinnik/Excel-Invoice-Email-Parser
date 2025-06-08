@@ -92,12 +92,12 @@ graph TD
 ## ⚡ Why Email-Based Lookalike Audiences?
 
 | 🧠 **Aspect**             | 😬 **Basic Targeting**             | 🚀 **Email Lookalike**                          |
-|---------------------------|------------------------------------|--------------------------------------------------|
+|---------------------------|-------------------------------------|-------------------------------------------------|
 | 📊 **Data Depth**         | ❌ Surface-level interests          | ✅ 1,000+ behavioral data points               |
 | 🎯 **Precision**          | 🪤 Broad demographic groups         | 🎯 Algorithmic similarity matching             |
-| 📉 **Conversion Rate**    | 🔻 ~9.2% average across industries | 📈 ~18–27% (2–3× lift; up to 32× in studies)    |
-| 💸 **Cost per Lead**      | 💰 $15-22 industry average         | 💵 $3.75–6.36 (AdEspresso verified)             |
-| 📈 **ROAS Improvement**   | 🟡 Baseline                        | 🟢 ~3× average ROAS; case example ~9.7×         |
+| 📉 **Conversion Rate**    | 🔻 ~9.2%                           | 📈 ~18–27% (2–3× lift; up to 32×)               |
+| 💸 **Cost per Lead**      | 💰 $15-22                          | 💵 $3.75–6.36 (AdEspresso)                      |
+| 📈 **ROAS**               | 🟡 Baseline                        | 🟢 ~3× lift; up to ~9.7×                        |
 
 *Sources: AdEspresso, Meta Business, HubSpot*
 
