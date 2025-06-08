@@ -12,7 +12,7 @@ This performance-focused Python tool extracts verified customer emails from sale
 🚀 **Up to 3× higher ROAS**  
 🎯 **2–3× more conversions**  
 💸 **50–80% lower cost per lead**
-> than interest-based targeting.  
+> “Lookalike Audiences built from customer emails deliver **2–3× better conversion rates** at **50–80% lower cost** than interest-based targeting.”  
 
 ⚙️ **Why it works:**  
 Meta’s AI-driven matching system analyzes **1,000+ behavioral signals** — from purchase patterns to cross-platform engagement — to match your source customers with *lookalike prospects* across Facebook, Instagram, and beyond.
