@@ -97,7 +97,7 @@ graph TD
 | 🎯 **Precision**          | 🪤 Broad demographic groups         | 🎯 Algorithmic similarity matching             |
 | 📉 **Conversion Rate**    | 🔻 ~9.2% average across industries | 📈 ~18–27% (2–3× lift; up to 32× in studies)    |
 | 💸 **Cost per Lead**      | 💰 $15-22 industry average         | 💵 $3.75–6.36 (AdEspresso verified)             |
-| 📈 **ROAS Improvement**   | 🟡 Baseline                        | 🟢 ~3× average ROAS; case example reached ~9.7× |
+| 📈 **ROAS Improvement**   | 🟡 Baseline                        | 🟢 ~3× average ROAS; case example ~9.7×         |
 
 *Sources: AdEspresso, Meta Business, HubSpot*
 
